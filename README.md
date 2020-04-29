@@ -1,2 +1,0 @@
-Gordon
-Hi bye
