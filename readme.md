@@ -18,4 +18,4 @@ Github username | Gender | age
 gordonho0817 | male | 21
 
 4. ## PIC:
-
+![screenshot1](https://github.com/csci3251-2020/student-1155137888/blob/master/git%202.png)
