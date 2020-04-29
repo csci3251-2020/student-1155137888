@@ -12,7 +12,7 @@ I am so confused right now and i dont even know how can i upload this file to Gi
 - [x] workshop 4
 - [x] workshop 5
 
-3. ## my info
+3. ## My info
 Github username | Gender | age
 --- | --- | ---
 gordonho0817 | male | 21
